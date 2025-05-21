@@ -28,30 +28,17 @@
 ---
 
 <details>
-<summary>🧪 More about my PhD work</summary>
-
-My research focuses on finding Magnetic Reconnection signatures in the Solar Wind through Solar Orbiter data.  
-
-🔭 I use data from the **Solar Orbiter** mission, especially from the **PAS**, **MAG** and **SCM** instruments, to:
-
-- Catalogue switchbacks and switchback patches in the solar wind.
-- Study their statistical properties and how they relate to different solar wind regimes.
-
-- Analyse Distribution Functions and extract moments (Density, Bulk-velocity, Temperatures).
-- Explore how the ions properties evolve through those structures.
-
-🔧 I develop Python-based tools for data processing, modeling, and visualization — combining physics, data science, and numerical methods.
+<summary>🔬 More about my work</summary>
 
 ### 🛰️ Solar Wind & Reconnection Studies
-- Developing methods to **detect and catalog switchbacks** and **patches of switchbacks** using **MAG** and **SCM** data from Solar Orbiter.
-- Performing **statistical analysis of ion distributions** (protons, alphas) using **PAS** instrument data.
-- Fitting **velocity distribution functions** using MCMC (`emcee`) to derive physical moments (density, velocity, temperatures).
-- Investigating **relative drifts** and **beam populations**, their heliocentric dependence and relation to wind type.
+  - Catalogue switchbacks and switchback patches in the solar wind.
+  - Study their statistical properties and how they relate to different solar wind regimes.
+  - Analyse Distribution Functions and extract moments (Density, Bulk-velocity, Temperatures).
+  - Explore how the ions properties evolve through those structures.
 
-### ⚙️ Engineering & Simulation Projects
-- Building a portfolio of applied projects in **space systems**, including:
-  - Reusable rocket stage simulator
-  - Orbital maneuver simulators
+### 🚀 Engineering & Simulation Projects
+  - Reusable rocket stage simulator [Not yet public]
+  - Orbital maneuver simulators [Not yet public]
 
 </details>
 
@@ -65,7 +52,7 @@ class PhD_Student:
         self.language_spoken = ["French", "English"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Thanks for visiting! Feel free to explore my projects.")
 
 me = PhD_Student()
 me.say_hi()
