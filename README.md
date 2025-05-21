@@ -14,9 +14,9 @@
 ### 🧠 Languages & Tools
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![Julia](https://img.shields.io/badge/Language-Julia-informational?style=flat&logo=julia&color=9558B2)
-![R](https://img.shields.io/badge/Language-R-informational?style=flat&logo=r&color=276DC3)
-![MATLAB](https://img.shields.io/badge/Language-MATLAB-informational?style=flat&logo=matlab&color=0076A8)
+![Julia](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&color=9558B2)
+![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=276DC3)
+![MATLAB](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=matlab&color=0076A8)
 
 ![Bash](https://img.shields.io/badge/Scripting-Bash-informational?style=flat&logo=gnubash&color=4EAA25)
 ![LaTeX](https://img.shields.io/badge/Typesetting-LaTeX-informational?style=flat&logo=latex&color=008080)
