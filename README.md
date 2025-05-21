@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=110&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff,3a7bd5,4099ff&height=110&section=header" width="100%">
+
 
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
@@ -19,4 +20,4 @@ me = PhD_Student()
 me.say_hi()
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=110&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff,3a7bd5,4099ff&height=110&section=footer" width="100%">
