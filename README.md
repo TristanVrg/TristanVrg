@@ -42,6 +42,17 @@ My research focuses on finding Magnetic Reconnection signatures in the Solar Win
 
 🔧 I develop Python-based tools for data processing, modeling, and visualization — combining physics, data science, and numerical methods.
 
+### 🛰️ Solar Wind & Reconnection Studies
+- Developing methods to **detect and catalog switchbacks** and **patches of switchbacks** using **MAG** and **SCM** data from Solar Orbiter.
+- Performing **statistical analysis of ion distributions** (protons, alphas) using **PAS** instrument data.
+- Fitting **velocity distribution functions** using MCMC (`emcee`) to derive physical moments (density, velocity, temperatures).
+- Investigating **relative drifts** and **beam populations**, their heliocentric dependence and relation to wind type.
+
+### ⚙️ Engineering & Simulation Projects
+- Building a portfolio of applied projects in **space systems**, including:
+  - Reusable rocket stage simulator
+  - Orbital maneuver simulators
+
 </details>
 
 ---
