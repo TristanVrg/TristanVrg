@@ -8,6 +8,10 @@ I study the solar wind and magnetic reconnection through switchbacks using **Sol
 📫 How to contact me: verge.tristan@gmail.com (personal) - tristan.verge@irap.omp.eu (work).
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![Julia](https://img.shields.io/badge/Language-Julia-informational?style=flat&logo=julia&color=9558B2)
+![R](https://img.shields.io/badge/Language-R-informational?style=flat&logo=r&color=276DC3)
+![MATLAB](https://img.shields.io/badge/Language-MATLAB-informational?style=flat&logo=matlab&color=0076A8)
+
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 ```python
