@@ -30,14 +30,15 @@
 <details>
 <summary>🧪 More about my PhD work</summary>
 
-My research focuses on understanding the heating of the solar corona and the acceleration of the solar wind by analyzing magnetic reconnection signatures called **switchbacks**.  
+My research focuses on finding Magnetic Reconnection signatures in the Solar Wind through Solar Orbiter data.  
 
-🔭 I use data from the **Solar Orbiter** mission, especially from the **MAG** and **PAS** instruments, to:
-- **Automatically detect and catalogue switchbacks and switchback patches** in the solar wind.
-- **Study their statistical properties** and how they relate to different solar wind regimes.
-- **Fit energy distribution functions** of protons and alpha particles to extract moments (density, velocity, temperature), using methods like **MCMC**.
-- Transform the distribution functions into the magnetic field-aligned frame and analyze the **drift between core and beam populations**.
-- Explore how these properties evolve with **heliocentric distance** and how they might be related to the origin and evolution of the solar wind.
+🔭 I use data from the **Solar Orbiter** mission, especially from the **PAS**, **MAG** and **SCM** instruments, to:
+
+- Catalogue switchbacks and switchback patches in the solar wind.
+- Study their statistical properties and how they relate to different solar wind regimes.
+
+- Analyse Distribution Functions and extract moments (Density, Bulk-velocity, Temperatures).
+- Explore how the ions properties evolve through those structures.
 
 🔧 I develop Python-based tools for data processing, modeling, and visualization — combining physics, data science, and numerical methods.
 
