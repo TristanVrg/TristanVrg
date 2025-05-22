@@ -5,10 +5,6 @@
 🎓 **PhD candidate in astrophysics** at [IRAP (Research Institute in Astrophysics and Planetology)](https://www.irap.omp.eu/en/), Toulouse, France.  
 ☀️ I investigate the **solar wind** and **magnetic reconnection** through the study of **switchbacks** using **Solar Orbiter** data.
 
-📫 **How to contact me**:  
-- 📧 verge.tristan@gmail.com *(personal)*  
-- 📧 tristan.verge@irap.omp.eu *(work)*
-
 ---
 
 ### 🧠 Languages & Tools
@@ -49,7 +45,6 @@ class PhD_Student:
     def __init__(self):
         self.name = "Tristan Vergé"
         self.role = "PhD. Student"
-        self.language_spoken = ["French", "English"]
 
     def say_hi(self):
         print("Thanks for visiting! Feel free to explore my projects.")
@@ -57,5 +52,10 @@ class PhD_Student:
 me = PhD_Student()
 me.say_hi()
 ```
+
+📫 **How to contact me**:  
+- 📧 verge.tristan@gmail.com *(personal)*  
+- 📧 tristan.verge@irap.omp.eu *(work)*
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3a7bd5&height=110&section=footer" width="100%">
