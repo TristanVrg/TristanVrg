@@ -26,7 +26,7 @@
 ![Julia](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&color=9558B2)
 ![Jupyter](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&color=F37626)
   
-<details>
+</details>
 ---
 
 <details>
