@@ -27,6 +27,7 @@
 ![Jupyter](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&color=F37626)
   
 </details>
+
 ---
 
 <details>
