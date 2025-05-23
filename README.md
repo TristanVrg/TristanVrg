@@ -10,7 +10,6 @@
 ### 🧠 Languages & Tools
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![Julia](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&color=9558B2)
 ![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=276DC3)
 ![MATLAB](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=matlab&color=0076A8)
 
@@ -19,8 +18,15 @@
 
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 ![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032)
-![Jupyter](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&color=F37626)
 
+
+<details>
+<summary>More</summary>
+  
+![Julia](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&color=9558B2)
+![Jupyter](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&color=F37626)
+  
+<details>
 ---
 
 <details>
