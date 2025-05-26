@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3a7bd5&height=110&section=header" width="100%">
 
-# 👋 Hi, I'm Tristan
+# 🧑‍🚀 Hi, I'm Tristan
 
 🎓 **PhD candidate in astrophysics** at [IRAP (Research Institute in Astrophysics and Planetology)](https://www.irap.omp.eu/en/), Toulouse, France.  
 🌌 **International Master's in Space Sciences and Applications (SSA)**, University of Orléans, France.  
