@@ -3,8 +3,12 @@
 # 🧑‍🚀 Hi, I'm Tristan
 
 🎓 **PhD candidate in astrophysics** at [IRAP (Research Institute in Astrophysics and Planetology)](https://www.irap.omp.eu/en/), Toulouse, France.  
-🌌 **International Master's in Space Sciences and Applications (SSA)**, University of Orléans, France.  
-📚 Background in Fundamental and Applied Physics (BSc & MSc).  
+🌌 **International Master's in Space Sciences and Applications (SSA)** – University of Orléans, France.  
+
+📘 BSc in Fundamental Physics – University of Orléans  
+🔭 M1 in Fundamental and Applied Physics – University of Orléans  
+
+
 
 ☀️ I investigate the **solar wind** and **magnetic reconnection** through the study of **switchbacks** using **Solar Orbiter** data.
 
